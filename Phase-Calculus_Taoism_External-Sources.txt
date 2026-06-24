@@ -1,0 +1,48 @@
+Principle Investigator: Justin K. Lietz
+Affiliation: Neuroca, Inc.
+Department: Neuroca Research - Mathematics and Physics Department
+Research Project: "Phase Calculus as a Modern Explanation for the Discrete, Symbolic Mathemics of Taoism"
+Date: June 24, 2026
+
+---
+
+Directory: ./Modular-Forms
+MFLecture1.pdf                           252K
+Zagier123ModularForms.pdf                1.3M
+
+Directory: ./Prospect-Leads
+Axis-Free-overset-grid.pdf               740K
+Dataset-of-Ancient-Chinese-Math.pdf      240K
+icpr2011_Logic-and-Philosophy-Today.pdf  2.4M
+Leibniz-Binary-Shao-Yongs-YiJing.pdf     1.3M
+Liu_2022_ApJ_940_62.pdf                  484K
+philosophies-10-00111.pdf                232K
+Physics_of_Buddhism_The_physics_and_math.pdf 380K
+
+Directory: ./Tao-Research
+01-1-4-2024.pdf                          212K
+0403123v1.pdf                            432K
+1003.1633v1.pdf                          1.1M
+1648-16.pdf                              540K
+1705.0203v1.pdf                          660K
+1_ The Shape of Understanding - by Vincent John.pdf 504K
+2508.08210v2.pdf                         900K
+2606.18009v1.pdf                         404K
+5d56507fb71b0.pdf                        176K
+5e0429a28f229.pdf                        148K
+9911050v1.pdf                            60K
+9911051v1.pdf                            100K
+ChinaandUniversals.pdf                   272K
+Geochem Geophys Geosyst - 2004 - Kageyama - Yin‐Yang grid   An overset grid in spherical geometry.pdf 3.2M
+Geochem Geophys Geosyst - 2014 - Yoshida - A Fortran visualization program for spherical data on a Yin‐Yang grid.pdf 104K
+Jin-Yuan Mathematics and Quanzhen Taoism.pdf 308K
+Koulaouzidis_2018.pdf                    708K
+Luo_2025_ApJS_280_48.pdf                 1.6M
+Mathematics _ Definition, History, & Importance _ Britannica.pdf 608K
+mwre-mwr-d-12-00108.1.pdf                4.5M
+phase_tao_working_notes_v1.md            8.0K
+Tao Te Ching.pdf                         320K
+The Tao of Math.pdf                      104K
+Unearthing-the-Ancient-Yi_Chinese.pdf    6.4M
+windwalker-iching.pdf                    524K
+Yin-Yang_grid_and_geodynamo_simulation.pdf 100K

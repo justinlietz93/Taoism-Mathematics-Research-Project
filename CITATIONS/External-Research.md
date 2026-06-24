@@ -21,9 +21,10 @@ The original externally acquired research and books have been excluded from .git
   * **URL:** [https://www.mdpi.com/2409-9287/10/6/111](https://www.google.com/search?q=https://www.mdpi.com/2409-9287/10/6/111)  
 * **icpr2011_Logic-and-Philosophy-Today.pdf** * **Citation:** Proceedings Collection on Contemporary Logic Frameworks / International Congress on Logic and Philosophy of Science.  
   * **URL:** [https://www.jstor.org/journal/logicphilotoday](https://www.google.com/search?q=https://www.jstor.org/journal/logicphilotoday)  
-* **Leibniz-Binary-Shao-Yongs-YiJing.pdf** * **Citation:** Historical record of Leibniz, G. W. (1703). *Explication de l'arithmétique binaire, qui se sert des seuls caractères 0 et 1, avec des remarques sur son utilité, et sur ce qu'elle donne le sens des anciennes figures chinoises de Fohy*. Histoire de l'Académie Royale des Sciences.  
-  * **URL:** [https://gallica.bnf.fr/ark:/12148/bpt6k56526c](https://www.google.com/search?q=https://gallica.bnf.fr/ark:/12148/bpt6k56526c)  
-* **Dataset-of-Ancient-Chinese-Math.pdf** * **URL:** [https://archive.org/details/ancient-chinese-mathematics-datasets](https://www.google.com/search?q=https://archive.org/details/ancient-chinese-mathematics-datasets)
+* **Leibniz-Binary-Shao-Yongs-YiJing.pdf** * **Citation:** Ryan, James A. “Leibniz’ Binary System and Shao Yong’s ‘Yijing.’” Philosophy East and West, vol. 46, no. 1, 1996, pp. 59–90. JSTOR, https://doi.org/10.2307/1399337. Accessed 24 June 2026.
+  * **URL:** [https://www.jstor.org/stable/1399337](https://www.jstor.org/stable/1399337)  
+* **Dataset-of-Ancient-Chinese-Math.pdf** 
+  * **URL:** [https://archive.org/details/ancient-chinese-mathematics-datasets](https://www.google.com/search?q=https://archive.org/details/ancient-chinese-mathematics-datasets)
 
 ### **3. Tao Research**
 
